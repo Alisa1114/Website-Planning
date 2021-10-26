@@ -1,0 +1,106 @@
+.back_to_index {
+    background-color: #69DADB;
+    padding: 10px; 
+    position: absolute; 
+    top: 0px; 
+    left: 8px; 
+    font-size: 20px;
+}
+
+.format1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FFF47D;
+    position: relative;
+    top: 40px
+}
+
+.bar{
+    float: right;
+}
+
+.bar_link{
+    display: block;
+    color: #5E454B;
+    text-align: center;
+    padding: 0px 50px;
+    text-decoration: none;
+    position: relative;
+    bottom: 40px;
+    right: 130px;
+    font-size: 30px;
+}
+
+a:hover:not(.active) {
+    background-color: #98DDCA;
+}
+
+.active {
+    background-color: #04AA6D;
+}
+
+.box {
+    position: relative;
+    left: 23%;
+    background-color: #FFC898;
+    width: 550px;
+    border: 15px solid #FF9292;
+    padding: 40px;
+    margin: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.logo1 {
+    position: relative; 
+    left: 250px; 
+    top:20px;
+}  
+
+.logo2 {
+    position: relative; 
+    left:200px; 
+    top: 200px
+}
+
+.external_link1 {
+    float: right; 
+    position: relative; 
+    top: 100px; 
+    right:300px
+}
+
+.external_link2 {
+    padding: 10px 20px;
+}
+
+.slogan_bg {
+    background-color: #FDF5CA; 
+    padding: 1px 100px; 
+    position: relative; 
+    top:300px;
+}
+.slogan_text {
+    position: relative; 
+    left: 43%; 
+    font-size: 23px;
+}
+
+td {
+    text-align: center;
+}
+
+h1 {
+    position: relative;
+    left: 100px;
+    color: #8E0505;
+}
+
+body {
+    background-color: #FEF5ED;
+}
